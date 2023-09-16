@@ -4,5 +4,4 @@ The goal for this bot is to recommend some songs to the user by matching to thei
 
 Simply run the below command to use the app: streamlit run app.py
 
-![Img1](https://github.com/Purvajainpj/Soundwave-Surfer/assets/93209398/974bd758-e1fd-48e0-968f-8c4b1551c0bf)
 
