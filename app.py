@@ -6,7 +6,7 @@ from youtubesearchpython import VideosSearch
  
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR-API-KEY"
 
  
 
