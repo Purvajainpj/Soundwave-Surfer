@@ -6,11 +6,12 @@ At the backend it understand the sentiment of user and preferences. According to
 Simply run the below command to use the app:
 *streamlit run app.py*
 
-![Img1](https://github.com/Purvajainpj/Soundwave-Surfer/assets/93209398/456561d3-73af-4e11-8526-a401c70e1c49)
+![Img1](https://github.com/Purvajainpj/Soundwave-Surfer/assets/93209398/ea072c10-b6bb-4213-8d2c-4acaf0d6ff34)
 
-![Img2](https://github.com/Purvajainpj/Soundwave-Surfer/assets/93209398/0b6004b1-c22f-41e9-b51a-427832eea364)
+![Img2](https://github.com/Purvajainpj/Soundwave-Surfer/assets/93209398/ce5fd1e2-9fb5-4f2d-9cdf-ebda03e352c3)
 
-![Img3](https://github.com/Purvajainpj/Soundwave-Surfer/assets/93209398/321e634a-cbfe-4e11-9e94-21716f6fbfe4)
+![Img3](https://github.com/Purvajainpj/Soundwave-Surfer/assets/93209398/86ba4df2-26d3-4b06-8dbd-ea88cd3b5fb3)
+
 
 
 
